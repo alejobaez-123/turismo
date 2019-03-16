@@ -1,0 +1,46 @@
+body{
+	background-image:url("../img/fondo.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+.img-principal{
+	border-radius:10px;
+}
+.texto-inicial{
+	padding-top:30px;
+}
+.emcabezado{
+	padding-top:40px;
+}
+.items{
+	margin-bottom:5px;
+}
+.redes{
+	position:absolute;
+}
+.redes li{
+
+	margin-bottom:10px;
+}
+.galeria img{
+	margin:0;
+	padding:0;
+}
+.imagen-contenido{
+	width:300px;
+	height:200px;
+	float:left;
+	margin-right:15px;
+}
+.contenedor-imagen-iz{
+	width:50%;
+	margin:auto;
+	padding-top:30px;
+}
+.imagen-contenido-izq{
+	width:100%;
+}
+.boton-enviar{
+	margin-bottom:20px;
+}
